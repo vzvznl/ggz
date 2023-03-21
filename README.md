@@ -1,2 +1,2 @@
 # ggz
-GGZ gerelateerde architectuur
+GGZ gerelateerde architectuur voor sectorteam
