@@ -1,0 +1,76 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>Architectuur producten fragmentarisch beheren</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>Architectuur producten fragmentarisch beheren</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-Capability"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-Capability" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Op gezette tijden wordt bekeken of de architecturen nog steeds up-to-date zijn. Blijkt dat niet meer het geval te zijn, dan wordt een onderhoudsslag uitgevoerd.
+
+Controlepunten
+- Er wordt wel eens gecontroleerd of de architectuur nog up-to-date is.
+- Verouderde onderdelen worden uit de architectuur verwijderd.
+- Er wordt wel eens een nieuwe versie van de architectuur gepubliceerd.
+
+Verbetersuggesties
+- Update architectuur. Neem de bestaande architecturen onder de loep: zijn de principes en modellen nog actueel, zijn er geen onderlinge tegenstrijdigheden? Stel daarbij steeds de vraag of de architectuur nog een actueel businessdoel dient. Verwijder verouderde en overbodig geworden gedeeltes en pas de architectuur aan aan de huidige eisen.</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
