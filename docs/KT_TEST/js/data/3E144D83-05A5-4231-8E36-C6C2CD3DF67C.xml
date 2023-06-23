@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.3.1:1", "", "Stelselbeheer", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA3/EA1/EA75.htm", "175.png", "12346", "0", "", "Logical diagram0","{DACF0108-EE40-4f56-9E3E-45C8AF48ED5D}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.3.1:2", "", "«ArchiMate_BusinessService» Voorziening beheer service", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA3/EA1/EA79.htm", "9F0DDA8A-5_ArchiMate_BusinessService.png", "E88009", "0", "", "Activity0","{6B0DAC3A-177E-4150-BB8C-71C08025023D}");

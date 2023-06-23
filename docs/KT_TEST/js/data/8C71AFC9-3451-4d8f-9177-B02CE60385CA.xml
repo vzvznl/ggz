@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.2.5.2:1", "", "SUC-KT-01<br />Registreren applicaties", "EARoot/EA2/EA2/EA5/EA2/EA1099.htm", "7.png", "E63006", "0", "", "UseCase0","{C0BF28AF-0DBC-4ec0-89BF-AF9955B613CF}");
+tocTab[tocTab.length] = new Array("0.2.2.5.2:2", "", "SUC-KT-02a<br />Registreren (Sub) activiteiten", "EARoot/EA2/EA2/EA5/EA2/EA1100.htm", "7.png", "E63007", "0", "", "UseCase0","{861C049B-DB8A-4ab0-8A9A-95596AE1801A}");
+tocTab[tocTab.length] = new Array("0.2.2.5.2:3", "", "SUC-KTB-01f<br />Configureren publish/subscribe topologie", "EARoot/EA2/EA2/EA5/EA2/EA1101.htm", "7.png", "E63008", "0", "", "UseCase0","{B021F46C-15BA-4721-9522-3A68B308DABC}");

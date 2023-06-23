@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.6.1.1:1", "", "«Lane» Applicatiebeheerder IT Leverancier", "EARoot/EA2/EA1/EA2/EA6/EA1/EA1/EA723.htm", "116.png", "E70774", "0", "", "ActivityPartition0","{8C1AF95E-8366-4ba9-BD16-DE6B37C2F1D7}");
+tocTab[tocTab.length] = new Array("0.2.1.2.6.1.1:2", "", "«Lane» Domein beheerder", "EARoot/EA2/EA1/EA2/EA6/EA1/EA1/EA724.htm", "116.png", "E70791", "0", "", "ActivityPartition0","{AEB5B6B4-5E58-4cab-8DBD-A0128106D4A7}");
+tocTab[tocTab.length] = new Array("0.2.1.2.6.1.1:3", "", "«Lane» Acceptatieteam", "EARoot/EA2/EA1/EA2/EA6/EA1/EA1/EA725.htm", "116.png", "E70775", "0", "", "ActivityPartition0","{10C4B9D4-7742-4f57-B976-CEBAE1D31591}");

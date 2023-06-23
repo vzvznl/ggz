@@ -1,0 +1,8 @@
+tocTab[tocTab.length] = new Array("0.2.2.2:1", "", "Zorgaanbieder en patiënt", "EARoot/EA2/EA2/EA2/EA1033.htm", "180.png", "10919", "0", "", "Use Case diagram0","{513A9891-3CDD-4818-AA7D-4ABD2877D3C6}");
+tocTab[tocTab.length] = new Array("0.2.2.2:2", "", "SUC-KT- <br />Verwijderen patiënt", "EARoot/EA2/EA2/EA2/EA1042.htm", "7.png", "E66434", "0", "", "UseCase0","{45B797A6-1D6C-4638-A716-27E8032C3D95}");
+tocTab[tocTab.length] = new Array("0.2.2.2:3", "", "SUC-KT- <br />Wijzigen patiënt", "EARoot/EA2/EA2/EA2/EA1043.htm", "7.png", "E66432", "0", "", "UseCase0","{0A6AD3AF-D921-4ef0-BE1A-BD61C5486F67}");
+tocTab[tocTab.length] = new Array("0.2.2.2:4", "", "SUC-KT- Verwijderen behandelaar", "EARoot/EA2/EA2/EA2/EA1044.htm", "7.png", "E66435", "0", "", "UseCase0","{F05FF973-71BF-4134-B2C7-9BA064DB5C6E}");
+tocTab[tocTab.length] = new Array("0.2.2.2:5", "", "SUC-KT- Wijzigen behandelaar", "EARoot/EA2/EA2/EA2/EA1045.htm", "7.png", "E66433", "0", "", "UseCase0","{D6174DF3-61ED-4d75-9D54-AE18FACFD7D8}");
+tocTab[tocTab.length] = new Array("0.2.2.2.1", "1", "Actoren", "EARoot/EA2/EA2/EA2/EA1/EA1046.htm", "4.png", "", "", "{8C7CD2E6-D779-48fb-8DE7-0EB61108295A}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2.2", "1", "Systemen", "EARoot/EA2/EA2/EA2/EA2/EA1051.htm", "4.png", "", "", "{D4CC01F3-A15D-4de2-A541-B87B00C86E1A}", "Package");
+tocTab[tocTab.length] = new Array("0.2.2.2.3", "1", "System Use Cases", "EARoot/EA2/EA2/EA2/EA3/EA1057.htm", "4.png", "", "", "{FE582AB8-C1AC-43d6-8BE3-06C19E913C94}", "Package");

@@ -1,0 +1,7 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.5.2:1", "", "Registreren beheerdersrol", "EARoot/EA2/EA1/EA2/EA5/EA2/EA637.htm", "189.png", "12486", "0", "", "Analysis diagram0","{10BDD3CA-E608-4636-A92F-F99EDED72D2D}");
+tocTab[tocTab.length] = new Array("0.2.1.2.5.2:2", "", "«DataObject» Applicatiebeheerder rol", "EARoot/EA2/EA1/EA2/EA5/EA2/EA640.htm", "4C9380A5-0_DataObject.png", "E75341", "0", "", "Artifact0","{C95CEB9F-60CF-43ea-A9BB-C56D7CD38BC8}");
+tocTab[tocTab.length] = new Array("0.2.1.2.5.2:3", "", "«DataObject» Autorisatiematrix", "EARoot/EA2/EA1/EA2/EA5/EA2/EA641.htm", "4C9380A5-0_DataObject.png", "E75342", "0", "", "Artifact0","{24600EC3-D7D7-48b6-8E1D-F0B481AC226E}");
+tocTab[tocTab.length] = new Array("0.2.1.2.5.2:4", "", "«DataObject» Domeinbeheerder rol", "EARoot/EA2/EA1/EA2/EA5/EA2/EA642.htm", "4C9380A5-0_DataObject.png", "E75340", "0", "", "Artifact0","{17B0CA63-973A-4068-99F3-8A179C156233}");
+tocTab[tocTab.length] = new Array("0.2.1.2.5.2.1", "1", "Start", "EARoot/EA2/EA1/EA2/EA5/EA2/EA1/EA646.htm", "4.png", "", "", "{DC22B2B2-078E-4ce5-8352-EF92D188B568}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.5.2.2", "1", "Actor", "EARoot/EA2/EA1/EA2/EA5/EA2/EA2/EA648.htm", "4.png", "", "", "{786E5401-1B91-48bc-96F4-823F84408826}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.5.2.3", "", "Vereisten", "EARoot/EA2/EA1/EA2/EA5/EA2/EA3/EA652.htm", "4.png", "", "", "{25FA3137-15D6-4a68-BE8A-453D39FB6B9A}", "Package");

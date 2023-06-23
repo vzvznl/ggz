@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.6.4:1", "", "Registreren abonnementen", "EARoot/EA2/EA1/EA2/EA6/EA4/EA768.htm", "189.png", "12079", "0", "", "Analysis diagram0","{FF35694C-1CFE-4d37-BA29-748A8BED4343}");
+tocTab[tocTab.length] = new Array("0.2.1.2.6.4:2", "", "«DataObject» Abonnement", "EARoot/EA2/EA1/EA2/EA6/EA4/EA771.htm", "4C9380A5-0_DataObject.png", "E75334", "0", "", "Artifact0","{93A5D4CC-C2D6-4620-89C1-4D971D9C478D}");
+tocTab[tocTab.length] = new Array("0.2.1.2.6.4:3", "", "«Pool» Applicatiebeheerder", "EARoot/EA2/EA1/EA2/EA6/EA4/EA772.htm", "116.png", "E70975", "0", "", "ActivityPartition0","{3D440097-774B-47e0-825C-38F8ECE2520D}");
+tocTab[tocTab.length] = new Array("0.2.1.2.6.4:4", "", "«EndEvent» EndEvent1", "EARoot/EA2/EA1/EA2/EA6/EA4/EA773.htm", "4C9380A5-0_EndEvent.png", "E70978", "E70975", "", "Event0","{021DB1F9-7042-4dc7-9AD3-22FDB2AD8767}");
+tocTab[tocTab.length] = new Array("0.2.1.2.6.4:5", "", "«Activity» Registreren abonnementen", "EARoot/EA2/EA1/EA2/EA6/EA4/EA774.htm", "4C9380A5-0_Activity.png", "E70977", "E70975", "", "Activity0","{CE294FA2-768A-4de5-97E3-EC944B68AE45}");
+tocTab[tocTab.length] = new Array("0.2.1.2.6.4:6", "", "«StartEvent» StartEvent1", "EARoot/EA2/EA1/EA2/EA6/EA4/EA775.htm", "4C9380A5-0_StartEvent.png", "E70976", "E70975", "", "Event0","{499C9D68-7FE8-476c-8DA0-5BFE24B6C20E}");

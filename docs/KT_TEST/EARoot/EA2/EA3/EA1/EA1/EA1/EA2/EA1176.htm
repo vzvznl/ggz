@@ -1,0 +1,187 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Software Structuur Laag</title>
+<link href="../../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Software Structuur Laag </h1>
+			<!-- <img class="header_image" src="../../../../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../../../EA1.htm">Koppeltaal 2.0</a> / <a href="../../../../../EA452.htm">Ontwerp</a> / <a href="../../../../EA1115.htm">Sequence diagrams</a> / <a href="../../../EA1117.htm">Sequence diagrammen</a> / <a href="../../EA1124.htm">Specificaties</a> / <a href="../EA1126.htm">Sofware Structuur Lagen</a> / <a href="EA1178.htm">Views</a> / <a href="EA1176.htm">Software Structuur Laag</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../../../../images/175.png" alt="Diagram"/> <a href="EA1176.htm">Software Structuur Laag</a></li>
+<li><img src="../../../../../../../images/21.png" alt="Activity"/> <a href="EA1179.htm">HTTP Authenticatie</a></li>
+<li><img src="../../../../../../../images/21.png" alt="Activity"/> <a href="EA1180.htm">HTTPv2</a></li>
+<li><img src="../../../../../../../images/21.png" alt="Activity"/> <a href="EA1181.htm">Status Codes</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA1177.png" usemap="#EA1177" border="0" />
+
+<MAP NAME="EA1177">
+<area shape="rect" coords="182,280,252,326" href="../EA1/EA1/EA1145.htm" target="_self">
+<area shape="rect" coords="259,401,338,432" href="../EA1/EA1/EA1174.htm" target="_self">
+<area shape="rect" coords="257,446,340,479" href="../EA1/EA1/EA1173.htm" target="_self">
+<area shape="rect" coords="148,445,230,479" href="../EA1/EA1/EA1172.htm" target="_self">
+<area shape="rect" coords="50,445,112,479" href="../EA1/EA1/EA1175.htm" target="_self">
+<area shape="rect" coords="47,401,115,435" href="../EA1/EA1/EA1171.htm" target="_self">
+<area shape="rect" coords="734,132,802,169" href="../EA1/EA1/EA1158.htm" target="_self">
+<area shape="rect" coords="624,132,728,169" href="../EA1/EA1/EA1157.htm" target="_self">
+<area shape="rect" coords="430,132,508,169" href="../EA1/EA1/EA1156.htm" target="_self">
+<area shape="rect" coords="362,132,422,169" href="../EA1/EA1/EA1155.htm" target="_self">
+<area shape="rect" coords="705,233,772,269" href="../EA1/EA1/EA1163.htm" target="_self">
+<area shape="rect" coords="620,233,687,269" href="../EA1/EA1/EA1162.htm" target="_self">
+<area shape="rect" coords="534,233,601,269" href="../EA1/EA1/EA1159.htm" target="_self">
+<area shape="rect" coords="448,233,515,269" href="../EA1/EA1/EA1160.htm" target="_self">
+<area shape="rect" coords="363,233,430,269" href="../EA1/EA1/EA1161.htm" target="_self">
+<area shape="rect" coords="530,412,704,472" href="../EA1/EA1/EA1149.htm" target="_self">
+<area shape="rect" coords="27,395,393,487" href="../EA1/EA1/EA1150.htm" target="_self">
+<area shape="rect" coords="655,544,705,581" href="../EA1/EA1/EA1170.htm" target="_self">
+<area shape="rect" coords="528,544,578,581" href="../EA1/EA1/EA1169.htm" target="_self">
+<area shape="rect" coords="512,529,721,596" href="../EA1/EA1/EA1151.htm" target="_self">
+<area shape="rect" coords="267,544,319,582" href="../EA1/EA1/EA1154.htm" target="_self">
+<area shape="rect" coords="148,544,243,581" href="../EA1/EA1/EA1153.htm" target="_self">
+<area shape="rect" coords="55,544,130,582" href="../EA1/EA1/EA1152.htm" target="_self">
+<area shape="rect" coords="183,225,250,269" href="../EA1/EA1/EA1144.htm" target="_self">
+<area shape="rect" coords="183,170,250,214" href="../EA1/EA1/EA1143.htm" target="_self">
+<area shape="rect" coords="183,115,250,159" href="../EA1/EA1/EA1142.htm" target="_self">
+<area shape="rect" coords="47,237,110,276" href="../EA1/EA1/EA1139.htm" target="_self">
+<area shape="rect" coords="47,186,110,225" href="../EA1/EA1/EA1141.htm" target="_self">
+<area shape="rect" coords="47,135,110,174" href="../EA1/EA1/EA1140.htm" target="_self">
+<area shape="rect" coords="699,317,732,355" href="../EA1/EA1/EA1164.htm" target="_self">
+<area shape="rect" coords="653,317,686,355" href="../EA1/EA1/EA1166.htm" target="_self">
+<area shape="rect" coords="469,317,502,355" href="../EA1/EA1/EA1165.htm" target="_self">
+<area shape="rect" coords="426,317,459,355" href="../EA1/EA1/EA1167.htm" target="_self">
+<area shape="rect" coords="383,317,416,355" href="../EA1/EA1/EA1168.htm" target="_self">
+<area shape="rect" coords="346,287,809,373" href="../EA1/EA1/EA1146.htm" target="_self">
+<area shape="rect" coords="346,191,809,277" href="../EA1/EA1/EA1147.htm" target="_self">
+<area shape="rect" coords="346,95,809,181" href="../EA1/EA1/EA1148.htm" target="_self">
+<area shape="rect" coords="11,502,856,611" href="../EA1/EA1/EA1138.htm" target="_self">
+<area shape="rect" coords="11,389,849,494" href="../EA1/EA1/EA1132.htm" target="_self">
+<area shape="rect" coords="299,57,855,384" href="../EA1/EA1/EA1136.htm" target="_self">
+<area shape="rect" coords="153,57,280,384" href="../EA1/EA1/EA1135.htm" target="_self">
+<area shape="rect" coords="10,57,139,384" href="../EA1/EA1/EA1133.htm" target="_self">
+<area shape="rect" coords="299,10,855,50" href="../EA1/EA1/EA1137.htm" target="_self">
+<area shape="rect" coords="10,10,280,50" href="../EA1/EA1/EA1134.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">Software Structuur Laag : Application Layer diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">26-2-2021 14:40:11</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">4-6-2021 16:25:25</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Bernard Stibbe</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{B1D3AF5F-3566-489b-AC11-5565E2461845}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

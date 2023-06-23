@@ -1,0 +1,165 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Realiseren nieuwe applicatie-instantie en accepteren applicatie</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Realiseren nieuwe applicatie-instantie en accepteren applicatie </h1>
+			<!-- <img class="header_image" src="../../../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../../EA1.htm">Koppeltaal 2.0</a> / <a href="../../../../EA452.htm">Ontwerp</a> / <a href="../../../EA457.htm">Business Use Cases</a> / <a href="../../EA545.htm">Domein- en stelselbeheer</a> / <a href="../EA827.htm">Beheer (15-11-2021)</a> / <a href="EA843.htm">Registratie processen - BUC</a> / <a href="EA856.htm">Registratie & realisatie processen</a> / <a href="EA859.htm">Applicatie-instantie realisatie</a> / <a href="EA870.htm">Realiseren nieuwe applicatie-instantie</a> / <a href="EA837.htm">Realiseren nieuwe applicatie-instantie en accepteren applicatie</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../../../images/189.png" alt="Diagram"/> <a href="EA837.htm">Realiseren nieuwe applicatie-instantie en accepteren applicatie</a></li>
+<li><img src="../../../../../../images/82.png" alt="Artifact"/> <a href="EA884.htm">Applicatie- instantie (beperkt)</a></li>
+<li><img src="../../../../../../images/82.png" alt="Artifact"/> <a href="EA885.htm">Applicatie- instantie (geaccepteerd)</a></li>
+<li><img src="../../../../../../images/82.png" alt="Artifact"/> <a href="EA886.htm">Applicatie-instantie</a></li>
+<li><img src="../../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA877.htm">Acceptatieteam</a></li>
+<li><img src="../../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA878.htm">Applicatiebeheerder IT Leverancier</a></li>
+<li><img src="../../../../../../images/116.png" alt="ActivityPartition"/> <a href="EA879.htm">Lane1</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="PageBody">
+	<div class=diagram_image> 
+<img src="EA838.png" usemap="#EA838" border="0" />
+
+<MAP NAME="EA838">
+<area shape="rect" coords="542,13,657,68" href="EA876.htm" target="_self">
+<area shape="rect" coords="725,458,840,519" href="EA881.htm" target="_self">
+<area shape="rect" coords="936,256,966,286" href="EA918.htm" target="_self">
+<area shape="rect" coords="630,288,672,330" href="EA915.htm" target="_self">
+<area shape="rect" coords="727,321,837,381" href="EA917.htm" target="_self">
+<area shape="rect" coords="183,428,218,478" href="EA875.htm" target="_self">
+<area shape="rect" coords="94,428,129,478" href="EA873.htm" target="_self">
+<area shape="rect" coords="724,10,839,71" href="EA883.htm" target="_self">
+<area shape="rect" coords="377,10,492,71" href="EA882.htm" target="_self">
+<area shape="rect" coords="278,428,313,478" href="EA897.htm" target="_self">
+<area shape="rect" coords="554,151,584,181" href="EA902.htm" target="_self">
+<area shape="rect" coords="936,336,966,366" href="EA871.htm" target="_self">
+<area shape="rect" coords="726,241,836,301" href="EA916.htm" target="_self">
+<area shape="rect" coords="200,10,315,71" href="EA880.htm" target="_self">
+<area shape="rect" coords="379,135,489,195" href="EA905.htm" target="_self">
+<area shape="rect" coords="202,135,312,195" href="EA904.htm" target="_self">
+<area shape="rect" coords="105,150,135,180" href="EA903.htm" target="_self">
+<area shape="rect" coords="10,226,1159,398" href="EA877.htm" target="_self">
+<area shape="rect" coords="10,106,1159,226" href="EA878.htm" target="_self">
+</MAP>
+ </div>
+	<div class="ObjectTitle">Realiseren nieuwe applicatie-instantie en accepteren applicatie : Business Process diagram</div>
+	<table border="0" cellpadding="0" cellspacing="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">15-11-2021 10:04:03</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Modified:</td>
+			<td width="85%" class="ObjectDetailsValue">26-11-2021 12:32:54</td>
+		</tr>
+		<tr style="padding-top: 10px;">
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td width="85%" class="ObjectDetailsValue">Marcel Schrauwen</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td width="85%" class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td width="85%" class="ObjectDetailsValue"></td>			
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td width="15%" class="ObjectDetailsTopic" style="padding-left: 18px;">ID:</td>
+			<td width="85%" class="ObjectDetailsValue">{40F88C0C-6DBE-42d0-93D6-7D86C6DEE217}</td>
+		</tr>
+	</table>
+	
+</div>
+
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

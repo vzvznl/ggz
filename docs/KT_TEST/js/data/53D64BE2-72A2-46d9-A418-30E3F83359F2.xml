@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.2.3.1.5.1.6:1", "", "SUC-KT-05a", "EARoot/EA2/EA3/EA1/EA5/EA1/EA6/EA1442.htm", "185.png", "10641", "0", "", "Sequence diagram0","{254BAC73-F534-4aa8-ACBB-9075286BCA10}");
+tocTab[tocTab.length] = new Array("0.2.3.1.5.1.6:2", "", "HTI", "EARoot/EA2/EA3/EA1/EA5/EA1/EA6/EA1445.htm", "101.png", "E68529", "0", "", "InteractionFragment0","{E3512F50-8E76-42a2-840E-DC98888CB9F2}");

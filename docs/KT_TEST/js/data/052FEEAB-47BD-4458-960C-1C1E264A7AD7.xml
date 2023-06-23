@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.4.1", "1", "Applicaties", "EARoot/EA1/EA1/EA4/EA1/EA1/EA4/EA1/EA126.htm", "4.png", "", "", "{A3531CE0-9443-449c-B181-47BF2ED7AD69}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.4.2", "1", "Identity provider", "EARoot/EA1/EA1/EA4/EA1/EA1/EA4/EA2/EA131.htm", "4.png", "", "", "{27F0EB7F-2190-4575-AF3E-613E7F376D47}", "Package");

@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.1", "1", "Businessfuncties met activiteiten", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA1/EA66.htm", "4.png", "", "", "{FDADCBD7-321D-474a-B1E7-BAF118244FA8}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.2", "1", "Informatie afhankelijkheid tussen activiteiten", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA2/EA70.htm", "4.png", "", "", "{0013318A-E03E-40be-B270-4E4A605A44D0}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.3", "1", "Stelsel en domein beheer", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA3/EA72.htm", "4.png", "", "", "{A4179D05-A018-45ad-B5D7-364D3801DA05}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.4", "1", "Zorg(ondersteuning)", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA4/EA87.htm", "4.png", "", "", "{D298A86C-AA4F-4b60-937A-93A9C19B8F42}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.5", "1", "Monitoring & Rapportage", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA5/EA91.htm", "4.png", "", "", "{BAD51666-E30C-4b1e-8464-7AB1CE18CBB0}", "Package");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2.6", "1", "Ontwikkeling koppelvlak", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA6/EA94.htm", "4.png", "", "", "{5473A6E9-98FA-4b5e-BA2A-0375DF1EA897}", "Package");

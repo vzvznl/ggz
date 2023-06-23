@@ -1,0 +1,2 @@
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.6.1:1", "", "Koppeltaal landschap", "EARoot/EA1/EA1/EA4/EA1/EA1/EA6/EA1/EA167.htm", "175.png", "14206", "0", "", "Logical diagram0","{3F690DBA-F449-4c90-9C66-F6CA567B9707}");
+tocTab[tocTab.length] = new Array("0.1.1.4.1.1.6.1:2", "", "«ArchiMate_ApplicationCollaboration» Koppeltaal voorziening", "EARoot/EA1/EA1/EA4/EA1/EA1/EA6/EA1/EA172.htm", "9F0DDA8A-5_ArchiMate_ApplicationCollaboration.png", "E88001", "0", "", "Class0","{6322A989-DB35-455a-B5C5-CFB34FE1A37E}");

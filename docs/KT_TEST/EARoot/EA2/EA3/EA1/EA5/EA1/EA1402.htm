@@ -1,0 +1,197 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<title>Views</title>
+<link href="../../../../../../css/ea.css" rel="stylesheet" type="text/css" />
+<script language="JavaScript" src="../../../../../../js/displayToc.js" type="text/javascript"></script>
+<script>
+
+  function switchProjectProperties() {
+			if (document.getElementById("proj00").style.display == "none") {
+				document.getElementById("proj00").style.display = "revert";
+				document.getElementById("proj01").style.display = "revert";
+				document.getElementById("proj02").style.display = "revert";
+				document.getElementById("proj03").style.display = "revert";
+				document.getElementById("proj04").style.display = "revert";
+				document.getElementById("proj05").style.display = "revert";
+			} else {
+				document.getElementById("proj00").style.display = "none";
+				document.getElementById("proj01").style.display = "none";
+				document.getElementById("proj02").style.display = "none";
+				document.getElementById("proj03").style.display = "none";
+				document.getElementById("proj04").style.display = "none";
+				document.getElementById("proj05").style.display = "none";
+			}
+}
+
+		function switchAdvancedProperties(){
+
+			if (document.getElementById("adv00").style.display == "none") {;
+				document.getElementById("adv00").style.display = "revert";
+				document.getElementById("adv01").style.display = "revert";
+			} else {
+				document.getElementById("adv00").style.display = "none";
+				document.getElementById("adv01").style.display = "none";
+			}
+		}
+		function initPage()
+        {			
+			var divs = document.getElementsByClassName("ObjectDetailsNotes");
+			for (var j = 0; j < divs.length; j++) {
+				var tmpStr = divs[j].innerHTML;
+				tmpStr = tmpStr.replace(/&gt;/g, ">");
+				tmpStr = tmpStr.replace(/&lt;/g, "<");
+
+				tmpStr = tmpStr.replace(/#gt;/g, "&gt;");
+				tmpStr = tmpStr.replace(/#lt;/g, "&lt;");
+
+				divs[j].innerHTML = tmpStr;
+			}
+
+            if (document.getElementById('TableGroup') != null)
+            {
+                toggleItem(document.getElementById('TableGroup').getElementsByTagName('li')[0].id.replace("Title", ""));
+            }
+
+        }
+</script>
+<style>
+
+</style>
+</head>
+<body onload="initPage();">
+<div class="section group" >
+
+		<div class="col span_2_of_2 header_frame">
+			<h1> Views </h1>
+			<!-- <img class="header_image" src="../../../../../../images/ea-banner.png" align="right" alt="Header Image" />-->
+			<img class="header_image" src="../../../../../../images/ea-banner.png" align="right" alt="Header Image" />
+		</div>
+		<div class="col span_2_of_2 breadcrumb_frame">
+			<p><a href="../../../../../EA1.htm">Koppeltaal 2.0</a> / <a href="../../../../EA452.htm">Ontwerp</a> / <a href="../../../EA1115.htm">Sequence diagrams</a> / <a href="../../EA1117.htm">Sequence diagrammen</a> / <a href="../EA1362.htm">Zorgaanbieder en cliënt - seq</a> / <a href="EA1402.htm">Views</a></p>
+		</div>
+			
+		<table class="contentmaintable">
+			<!-- <tfoot>
+				<tr>
+					<td>foot1</td>
+					<td>foot2</td>
+				</tr>
+			</tfoot> -->
+			<tbody>
+				<tr>
+					<td class="indexcell">
+						<div class="projectBrowserTitle">Project: </div>
+						<ul>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA1/EA1427.htm">SUC-KT-02</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA2/EA1430.htm">SUC-KT-02.1</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA3/EA1434.htm">SUC-KT-03</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA4/EA1437.htm">SUC-KT-03.1</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA5/EA1440.htm">SUC-KT-04</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA6/EA1444.htm">SUC-KT-05a</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA7/EA1448.htm">SUC-KT-05b</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA8/EA1451.htm">SUC-KT-06a</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA9/EA1454.htm">SUC-KT-06a.1</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA10/EA1457.htm">SUC-KT-06b</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA11/EA1464.htm">SUC-KT-08</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA12/EA1467.htm">SUC-KT-08.1</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA13/EA1470.htm">SUC-KT-09</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA14/EA1473.htm">SUC-KT-12</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA15/EA1476.htm">SUC-KT-12.1</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA16/EA1479.htm">SUC-KT-12.2</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA17/EA1482.htm">SUC-KT-13</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA18/EA1485.htm">SUC-KT-13.1</a></li>
+<li><img src="../../../../../../images/4.png" alt="Package"/> <a href="./EA19/EA1488.htm">SUC-KT-13.2</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1370.htm">Authorization Code Flow</a></li>
+<li><img src="../../../../../../images/175.png" alt="Diagram"/> <a href="EA1372.htm">Bevoegdheden</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1374.htm">Client Credential Flow 1.0</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1376.htm">Client Credential Flow 1.1</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1378.htm">Client Credentials Flow</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1380.htm">CLIENT_CREDENTIAL_LAUNCH</a></li>
+<li><img src="../../../../../../images/175.png" alt="Diagram"/> <a href="EA1382.htm">Koppeltaal</a></li>
+<li><img src="../../../../../../images/175.png" alt="Diagram"/> <a href="EA1384.htm">Koppeltaal 2.0</a></li>
+<li><img src="../../../../../../images/175.png" alt="Diagram"/> <a href="EA1386.htm">Koppeltaal 2.0 1</a></li>
+<li><img src="../../../../../../images/175.png" alt="Diagram"/> <a href="EA1388.htm">Koppeltaal 2.0 2</a></li>
+<li><img src="../../../../../../images/175.png" alt="Diagram"/> <a href="EA1390.htm">KT 2.0 FHIR Resource Model</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1392.htm">Participant Opvoeren</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1394.htm">SMART Launch Flow</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1396.htm">SUC-KT-08a</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1398.htm">SUC-KT-11a</a></li>
+<li><img src="../../../../../../images/185.png" alt="Diagram"/> <a href="EA1400.htm">SUC-KT-11c</a></li>
+</ul>
+
+					</td>
+					<td class="contentcell"><div class="pageHeader"></div>
+<div class="PageBody">
+	<span class="ObjectTitle">Views  : Public   Package</span>
+	<table border="0" class="ObjectDetails">
+		<tr>
+			<td width="15%" class="ObjectDetailsTopic">Created:</td>
+			<td width="85%" class="ObjectDetailsValue">8-12-2020 10:31:50</td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic">Modified:</td>
+			<td class="ObjectDetailsValue">17-2-2021 14:56:00</td>
+		</tr>
+		<tr style="height: 10px"><td colspan="2"></td></tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchProjectProperties()"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="proj" /></button>Project:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Author:</td>
+			<td class="ObjectDetailsValue">Bernard Stibbe</td>
+		</tr>
+		<tr id="proj01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Version:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj02" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Phase:</td>
+			<td class="ObjectDetailsValue">1.0</td>
+		</tr>
+		<tr id="proj03" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Status:</td>
+			<td class="ObjectDetailsValue">Proposed</td>
+		</tr>
+		<tr id="proj04" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Complexity:</td>
+			<td class="ObjectDetailsValue">Easy</td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Difficulty:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj06" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Priority:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="proj05" style="display: none;">
+			<td class="ObjectDetailsTopic" >Multiplicity:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr>
+			<td class="ObjectDetailsTopic"><button onclick="switchAdvancedProperties()"><img src="../../../../../../images/plus03.gif" align="absmiddle" id="adv" /></button>Advanced:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+		<tr id="adv00" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">UUID:</td>
+			<td class="ObjectDetailsValue">{75BFF28A-7460-496a-B29F-0E03B97F0C14}</td>
+		</tr>
+		<tr id="adv01" style="display: none;">
+			<td class="ObjectDetailsTopic" style="padding-left: 18px;">Appears In:</td>
+			<td class="ObjectDetailsValue"></td>
+		</tr>
+	</table>
+	
+ </div>
+ </td>
+				</tr>
+			</tbody>
+		</table>
+		
+</div>
+</body>
+</html>
+

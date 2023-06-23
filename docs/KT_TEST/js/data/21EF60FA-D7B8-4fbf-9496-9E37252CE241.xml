@@ -1,0 +1,6 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.8.2:1", "", "Opvoeren activiteit definitie", "EARoot/EA2/EA1/EA2/EA8/EA2/EA808.htm", "189.png", "12075", "0", "", "Analysis diagram0","{B337AE8F-F83B-4b65-9FCA-EAADFB775ABB}");
+tocTab[tocTab.length] = new Array("0.2.1.2.8.2:2", "", "«DataObject» Activiteit", "EARoot/EA2/EA1/EA2/EA8/EA2/EA811.htm", "4C9380A5-0_DataObject.png", "E75383", "0", "", "Artifact0","{DD854CC2-726B-4f9c-B910-219B095D62FD}");
+tocTab[tocTab.length] = new Array("0.2.1.2.8.2:3", "", "«Pool» Applicatiebeheerder", "EARoot/EA2/EA1/EA2/EA8/EA2/EA812.htm", "116.png", "E70918", "0", "", "ActivityPartition0","{6202D620-2DEF-497a-8E72-C89E23A784C6}");
+tocTab[tocTab.length] = new Array("0.2.1.2.8.2:4", "", "«EndEvent» EndEvent1", "EARoot/EA2/EA1/EA2/EA8/EA2/EA813.htm", "4C9380A5-0_EndEvent.png", "E70921", "E70918", "", "Event0","{327F09F7-AB78-4aaa-A3CB-299F815EFF31}");
+tocTab[tocTab.length] = new Array("0.2.1.2.8.2:5", "", "«Activity» Opvoeren activiteit definitie", "EARoot/EA2/EA1/EA2/EA8/EA2/EA814.htm", "4C9380A5-0_Activity.png", "E70920", "E70918", "", "Activity0","{ED87FB95-CFE6-4999-82E4-CABDEC7E8B00}");
+tocTab[tocTab.length] = new Array("0.2.1.2.8.2:6", "", "«StartEvent» StartEvent1", "EARoot/EA2/EA1/EA2/EA8/EA2/EA815.htm", "4C9380A5-0_StartEvent.png", "E70919", "E70918", "", "Event0","{A96F53A5-B6DA-4b99-9A4C-5464CA247ADF}");

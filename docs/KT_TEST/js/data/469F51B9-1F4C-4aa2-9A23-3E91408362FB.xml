@@ -1,0 +1,12 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.1", "1", "Domein beheerder - registreren en configureren applicaties", "EARoot/EA2/EA1/EA2/EA1/EA560.htm", "4.png", "", "", "{85C21EFF-2565-4aaa-9ED4-BA32AD1A53FF}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.2", "1", "Ondersteuner - definitief verwijderen persoonsgegevens", "EARoot/EA2/EA1/EA2/EA2/EA586.htm", "4.png", "", "", "{1836EB0D-E5F9-47fc-B533-EA7C73E7951B}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.3", "1", "Ondersteuner - incident data integriteit", "EARoot/EA2/EA1/EA2/EA3/EA593.htm", "4.png", "", "", "{0C15094D-0F60-41de-AA43-612049ABCC46}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.4", "1", "Domein beheerder 2", "EARoot/EA2/EA1/EA2/EA4/EA600.htm", "4.png", "", "", "{3C0A0D6F-5875-48ef-A211-CFC5E41ED309}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.5", "1", "Stelselbeheer", "EARoot/EA2/EA1/EA2/EA5/EA621.htm", "4.png", "", "", "{487C68AE-6940-4802-BF1F-74C5F6E40C30}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.6", "1", "Domeinbeheer", "EARoot/EA2/EA1/EA2/EA6/EA707.htm", "4.png", "", "", "{741F20B2-CCE6-4f71-AFA2-384745F931B1}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.7", "1", "Stelsel beheerder 2", "EARoot/EA2/EA1/EA2/EA7/EA778.htm", "4.png", "", "", "{72E24224-3944-49ed-B909-35815E8E83C3}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.8", "1", "Stelsel en domein beheer", "EARoot/EA2/EA1/EA2/EA8/EA798.htm", "4.png", "", "", "{72506A6B-4EEC-4e4b-84F9-B451281554A2}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.9", "1", "Beheer (15-11-2021)", "EARoot/EA2/EA1/EA2/EA9/EA827.htm", "4.png", "", "", "{72025C57-2681-4fb5-BBF3-6E09D20E4BA1}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.10", "", "Monitoring & Rapportage", "EARoot/EA2/EA1/EA2/EA10/EA950.htm", "4.png", "", "", "{3F089346-60F8-48a4-ACAA-042F8E66B0A7}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.11", "1", "Ontwikkeling", "EARoot/EA2/EA1/EA2/EA11/EA951.htm", "4.png", "", "", "{7D247EE0-3479-4b1c-AC44-9AB4C90C7E6F}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.12", "1", "Ontwikkelen tot certificeren", "EARoot/EA2/EA1/EA2/EA12/EA963.htm", "4.png", "", "", "{43585697-8688-4df7-8EBE-F299C38AC401}", "Package");

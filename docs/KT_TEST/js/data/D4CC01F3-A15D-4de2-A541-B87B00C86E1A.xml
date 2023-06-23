@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.2.2.2:1", "", "Behandelaarsportaal", "EARoot/EA2/EA2/EA2/EA2/EA1052.htm", "6.png", "E62968", "0", "", "Actor0","{A230D7D3-D916-4c59-9508-C77C2CF957B0}");
+tocTab[tocTab.length] = new Array("0.2.2.2.2:2", "", "Patiëntportaal", "EARoot/EA2/EA2/EA2/EA2/EA1053.htm", "6.png", "E62969", "0", "", "Actor0","{FC72BD01-7C05-4f5a-9DDF-C120205AF512}");
+tocTab[tocTab.length] = new Array("0.2.2.2.2:3", "", "eHealth module", "EARoot/EA2/EA2/EA2/EA2/EA1054.htm", "6.png", "E62970", "0", "", "Actor0","{40E29BEA-21F9-4f23-A1FD-78FEF84BB910}");
+tocTab[tocTab.length] = new Array("0.2.2.2.2:4", "", "Koppeltaal dienst", "EARoot/EA2/EA2/EA2/EA2/EA1055.htm", "6.png", "E62971", "0", "", "Actor0","{6CFAF8A7-0D63-4aa0-8787-3C5550D2A0D5}");
+tocTab[tocTab.length] = new Array("0.2.2.2.2:5", "", "Zorgaanbiederportaal (is geen EPD?)", "EARoot/EA2/EA2/EA2/EA2/EA1056.htm", "6.png", "E62972", "0", "", "Actor0","{91E9F1A9-8006-4535-9400-85ED8897EF2F}");

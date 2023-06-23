@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1.1.4.5:1", "", "«Activity» taak afronden", "EARoot/EA2/EA1/EA1/EA4/EA5/EA523.htm", "4C9380A5-0_Activity.png", "E68523", "0", "", "Activity0","{4C125DD1-7477-4f46-A753-4CAC04B74001}");
+tocTab[tocTab.length] = new Array("0.2.1.1.4.5:2", "", "«Activity» opvoeren participant", "EARoot/EA2/EA1/EA1/EA4/EA5/EA524.htm", "4C9380A5-0_Activity.png", "E62861", "0", "", "Activity0","{6E1DB61B-93ED-43ee-9151-F1CB66D7BBAC}");
+tocTab[tocTab.length] = new Array("0.2.1.1.4.5:3", "", "«Activity» Notificeren behandelaar", "EARoot/EA2/EA1/EA1/EA4/EA5/EA525.htm", "4C9380A5-0_Activity.png", "E62862", "0", "", "Activity0","{C0A52F88-B5C0-4412-ADEF-89922B7A2ED7}");

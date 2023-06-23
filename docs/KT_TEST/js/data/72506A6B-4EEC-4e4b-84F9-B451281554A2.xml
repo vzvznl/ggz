@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.8.1", "1", "Business use case overzicht", "EARoot/EA2/EA1/EA2/EA8/EA1/EA804.htm", "4.png", "", "", "{BF59A19B-F078-4678-AC5A-AD9A07CFCE66}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.8.2", "1", "Opvoeren activiteit definitie", "EARoot/EA2/EA1/EA2/EA8/EA2/EA810.htm", "4.png", "", "", "{21EF60FA-D7B8-4fbf-9496-9E37252CE241}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.8.3", "1", "Bijzondere use cases", "EARoot/EA2/EA1/EA2/EA8/EA3/EA816.htm", "4.png", "", "", "{4BD98506-F3F5-4c50-916D-DF7C8171A4AF}", "Package");

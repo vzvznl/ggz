@@ -1,0 +1,3 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.9.2.1", "1", "Registratie domein", "EARoot/EA2/EA1/EA2/EA9/EA2/EA1/EA931.htm", "4.png", "", "", "{07D0E375-7856-4d0b-A18D-310E712048D3}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.9.2.2", "1", "Registratie applicatie", "EARoot/EA2/EA1/EA2/EA9/EA2/EA2/EA938.htm", "4.png", "", "", "{841A6239-BAFA-4f02-A6D0-76465D93498C}", "Package");
+tocTab[tocTab.length] = new Array("0.2.1.2.9.2.3", "1", "Realisatie applicatie-instantie", "EARoot/EA2/EA1/EA2/EA9/EA2/EA3/EA945.htm", "4.png", "", "", "{3DC7625F-529B-47e7-99AB-2E31F7D1501C}", "Package");

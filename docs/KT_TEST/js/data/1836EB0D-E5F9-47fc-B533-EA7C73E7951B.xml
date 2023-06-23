@@ -1,0 +1,5 @@
+tocTab[tocTab.length] = new Array("0.2.1.2.2:1", "", "Ondersteuner - definitief verwijderen persoonsgegevens", "EARoot/EA2/EA1/EA2/EA2/EA584.htm", "189.png", "11437", "0", "", "Analysis diagram0","{2320A091-3C7C-41bd-A66A-03B8899A8D31}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:2", "", "«Pool» Ondersteuner", "EARoot/EA2/EA1/EA2/EA2/EA587.htm", "116.png", "E66496", "0", "", "ActivityPartition0","{971A3455-EB08-4c5f-8F8B-827B4BE97C02}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:3", "", "«Activity» Definitief verwijderen van persoonsgegevens", "EARoot/EA2/EA1/EA2/EA2/EA588.htm", "4C9380A5-0_Activity.png", "E66498", "E66496", "", "Activity0","{95B45BE7-0AC2-48ee-B202-E85C8547DD08}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:4", "", "«StartEvent» Start", "EARoot/EA2/EA1/EA2/EA2/EA589.htm", "4C9380A5-0_StartEvent.png", "E66497", "E66496", "", "Event0","{CF0E04D4-5110-43c5-90A6-7D8980136DED}");
+tocTab[tocTab.length] = new Array("0.2.1.2.2:5", "", "«EndEvent» Stop", "EARoot/EA2/EA1/EA2/EA2/EA590.htm", "4C9380A5-0_EndEvent.png", "E66499", "E66496", "", "Event0","{0B3E58D9-567A-4bd7-AF67-528908DB6D20}");
