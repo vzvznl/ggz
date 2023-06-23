@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.5.1", "1", "Stelsel register", "EARoot/EA1/EA1/EA4/EA1/EA1/EA5/EA1/EA140.htm", "4.png", "", "", "{AA3DFFD0-3692-4498-BFEC-9E7A5DB018C5}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.5.2", "1", "Autorisatie server", "EARoot/EA1/EA1/EA4/EA1/EA1/EA5/EA2/EA146.htm", "4.png", "", "", "{73F66474-933A-48fb-8641-4E1690BE4D22}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.5.3", "1", "FHIR Store", "EARoot/EA1/EA1/EA4/EA1/EA1/EA5/EA3/EA152.htm", "4.png", "", "", "{4ED39457-11C6-4a30-ADE5-938D38544E67}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.5.4", "1", "Stelsel log", "EARoot/EA1/EA1/EA4/EA1/EA1/EA5/EA4/EA159.htm", "4.png", "", "", "{DD676094-9602-4c54-BD46-A84E429A929F}", "Package");

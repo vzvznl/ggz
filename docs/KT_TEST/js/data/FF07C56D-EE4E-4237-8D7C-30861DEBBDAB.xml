@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.1.1.5:1", "", "Participant - ondersteunen van de patiënt", "EARoot/EA2/EA1/EA1/EA5/EA528.htm", "189.png", "10915", "0", "", "Analysis diagram0","{4C1AE34B-730E-4281-9886-0E4F89F88391}");
-tocTab[tocTab.length] = new Array("0.2.1.1.5.1", "1", "Actoren", "EARoot/EA2/EA1/EA1/EA5/EA1/EA535.htm", "4.png", "", "", "{0BD85460-312E-4640-A867-7A3FB134C68C}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.1.5.2", "1", "Start", "EARoot/EA2/EA1/EA1/EA5/EA2/EA538.htm", "4.png", "", "", "{39FD9AB6-0E55-41ed-917C-0885A061C4A8}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.1.5.3", "1", "Activiteiten", "EARoot/EA2/EA1/EA1/EA5/EA3/EA540.htm", "4.png", "", "", "{44A8C755-EB04-4bd8-AD28-865D3510563C}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.1.5.4", "1", "Stop", "EARoot/EA2/EA1/EA1/EA5/EA4/EA543.htm", "4.png", "", "", "{FA80F464-9BB0-4d01-A629-C899008DBC95}", "Package");

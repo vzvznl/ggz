@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.3.1.5:1", "", "Zorgaanbieder en cliënt - seq", "EARoot/EA2/EA3/EA1/EA5/EA1360.htm", "175.png", "9151", "0", "", "Logical diagram0","{D7B50C6D-EFF5-4d16-BE58-13C8C523750E}");
-tocTab[tocTab.length] = new Array("0.2.3.1.5:2", "", "Autorisatie Code Flow", "EARoot/EA2/EA3/EA1/EA5/EA1363.htm", "102.png", "E53469", "0", "", "InteractionOccurrence0","{981AFD2C-B93A-45aa-AF77-6634DB6B7F3C}");
-tocTab[tocTab.length] = new Array("0.2.3.1.5:3", "", "Participant Opvoeren", "EARoot/EA2/EA3/EA1/EA5/EA1365.htm", "102.png", "E53466", "0", "", "InteractionOccurrence0","{BE38F996-9EDF-423f-B756-C7569D8C36D3}");
-tocTab[tocTab.length] = new Array("0.2.3.1.5:4", "", "Registratie Activiteiten", "EARoot/EA2/EA3/EA1/EA5/EA1366.htm", "102.png", "E53468", "0", "", "InteractionOccurrence0","{69DBF862-D75D-40f5-8DEE-875ACF0CE66F}");
-tocTab[tocTab.length] = new Array("0.2.3.1.5:5", "", "SMART Launch Flow", "EARoot/EA2/EA3/EA1/EA5/EA1367.htm", "102.png", "E53470", "0", "", "InteractionOccurrence0","{A766FEFB-A00B-46ac-BC32-2BC4D6C07226}");
-tocTab[tocTab.length] = new Array("0.2.3.1.5:6", "", "Taak Opvoeren", "EARoot/EA2/EA3/EA1/EA5/EA1368.htm", "102.png", "E53471", "0", "", "InteractionOccurrence0","{2F19F371-A283-4880-8F0E-004AFAE5A942}");
-tocTab[tocTab.length] = new Array("0.2.3.1.5.1", "1", "Views", "EARoot/EA2/EA3/EA1/EA5/EA1/EA1402.htm", "4.png", "", "", "{75BFF28A-7460-496a-B29F-0E03B97F0C14}", "Package");

@@ -1,6 +1,0 @@
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.1", "1", "Service architectuur", "EARoot/EA1/EA1/EA4/EA1/EA1/EA1/EA56.htm", "4.png", "", "", "{7684EE5A-CCC9-4400-9218-4819FCDBD1B2}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.2", "1", "Businessfuncties", "EARoot/EA1/EA1/EA4/EA1/EA1/EA2/EA57.htm", "4.png", "", "", "{FCDC04ED-4D03-404f-8FB9-5C7303C1574D}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.3", "1", "Businessrollen", "EARoot/EA1/EA1/EA4/EA1/EA1/EA3/EA95.htm", "4.png", "", "", "{5FEE0E45-4222-4204-B789-3E71D641C5C4}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.4", "1", "Zorgaanbieder domein", "EARoot/EA1/EA1/EA4/EA1/EA1/EA4/EA121.htm", "4.png", "", "", "{052FEEAB-47BD-4458-960C-1C1E264A7AD7}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.5", "1", "Voorziening", "EARoot/EA1/EA1/EA4/EA1/EA1/EA5/EA133.htm", "4.png", "", "", "{B0179D41-2DDB-44e6-A1D7-FA196417376C}", "Package");
-tocTab[tocTab.length] = new Array("0.1.1.4.1.1.6", "1", "Gelaagde architectuur", "EARoot/EA1/EA1/EA4/EA1/EA1/EA6/EA163.htm", "4.png", "", "", "{4603E017-CFCC-4e62-B01B-45F1446C533D}", "Package");

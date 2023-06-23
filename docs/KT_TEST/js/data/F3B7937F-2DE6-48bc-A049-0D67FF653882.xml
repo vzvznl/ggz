@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.2.3.2:1", "", "SUC-KTB-01a<br />Testen koppelvlak", "EARoot/EA2/EA2/EA3/EA2/EA1084.htm", "7.png", "E62996", "0", "", "UseCase0","{7DCA55B0-943A-43e2-B2F2-5CED5B390A52}");
-tocTab[tocTab.length] = new Array("0.2.2.3.2:2", "", "SUC-KTB-01b<br />kwalificeren koppelvlak", "EARoot/EA2/EA2/EA3/EA2/EA1085.htm", "7.png", "E62997", "0", "", "UseCase0","{C9F99E32-472F-4620-B3E4-99E2445515C3}");
-tocTab[tocTab.length] = new Array("0.2.2.3.2:3", "", "SUC-KTB-01c<br />Registreren (stelsel)", "EARoot/EA2/EA2/EA3/EA2/EA1086.htm", "7.png", "E62998", "0", "", "UseCase0","{5A97618B-AF1E-40e3-BCE3-57481C4ECDD9}");
-tocTab[tocTab.length] = new Array("0.2.2.3.2:4", "", "SUC-KTB-01d<br />Activeren applicaties", "EARoot/EA2/EA2/EA3/EA2/EA1087.htm", "7.png", "E62999", "0", "", "UseCase0","{A0A3E36B-2318-44fd-9A64-76CEF3EFD8ED}");
-tocTab[tocTab.length] = new Array("0.2.2.3.2:5", "", "SUC-KTB-01e<br />De-activeren applicaties", "EARoot/EA2/EA2/EA3/EA2/EA1088.htm", "7.png", "E63000", "0", "", "UseCase0","{F67AEC83-29F9-48b2-A450-313B60917AC2}");

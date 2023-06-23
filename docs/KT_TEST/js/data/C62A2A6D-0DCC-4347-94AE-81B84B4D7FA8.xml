@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.1.1.1.1:1", "", "«DataObject» Patient administratieve gegevens", "EARoot/EA2/EA1/EA1/EA1/EA1/EA471.htm", "4C9380A5-0_DataObject.png", "E75372", "0", "", "Artifact0","{7F6C91B2-79FB-4ba7-8802-334B4990E32C}");
-tocTab[tocTab.length] = new Array("0.2.1.1.1.1:2", "", "«Pool» Zorgondersteuner", "EARoot/EA2/EA1/EA1/EA1/EA1/EA472.htm", "116.png", "E66393", "0", "", "ActivityPartition0","{8D5DE21D-C62A-4b4b-BD4A-9308D5C15364}");
-tocTab[tocTab.length] = new Array("0.2.1.1.1.1:3", "", "«StartEvent» start", "EARoot/EA2/EA1/EA1/EA1/EA1/EA473.htm", "4C9380A5-0_StartEvent.png", "E66392", "E66393", "", "Event0","{952D9515-CB37-4925-8CE2-28DFFC12EC2B}");
-tocTab[tocTab.length] = new Array("0.2.1.1.1.1:4", "", "«Activity» Opvoeren patiënt administratieve gegevens", "EARoot/EA2/EA1/EA1/EA1/EA1/EA474.htm", "4C9380A5-0_Activity.png", "E66389", "E66393", "", "Activity0","{21FF8CBA-B181-44ef-BBE2-D75B91D4F9EE}");
-tocTab[tocTab.length] = new Array("0.2.1.1.1.1:5", "", "«EndEvent» stop", "EARoot/EA2/EA1/EA1/EA1/EA1/EA475.htm", "4C9380A5-0_EndEvent.png", "E66387", "E66393", "", "Event0","{D6BAF3DB-BD0D-4075-8571-8B9DE01CDBD4}");

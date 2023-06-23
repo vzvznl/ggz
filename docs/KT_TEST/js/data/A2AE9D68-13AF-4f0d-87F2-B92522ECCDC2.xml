@@ -1,8 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.2.1:1", "", "uml", "EARoot/EA2/EA2/EA1/EA1017.htm", "180.png", "12588", "0", "", "Use Case diagram0","{8AB04455-4E28-4e98-8D74-CFB1ECD41CB4}");
-tocTab[tocTab.length] = new Array("0.2.2.1:2", "", "Koppeltaal support", "EARoot/EA2/EA2/EA1/EA1026.htm", "6.png", "E76130", "0", "", "Actor0","{622626A7-8445-4ce6-9C7F-BB30D1ACCB1A}");
-tocTab[tocTab.length] = new Array("0.2.2.1:3", "", "Provisionen applicatie instantie", "EARoot/EA2/EA2/EA1/EA1027.htm", "7.png", "E76141", "0", "", "UseCase0","{557CE5D5-9049-421e-A12B-E51B7899FF0A}");
-tocTab[tocTab.length] = new Array("0.2.2.1:4", "", "Provisionen domein store", "EARoot/EA2/EA2/EA1/EA1028.htm", "7.png", "E76134", "0", "", "UseCase0","{C3B5640A-6D88-4ee3-851D-D1FCAFDD4995}");
-tocTab[tocTab.length] = new Array("0.2.2.1:5", "", "Realiseren applicatie instantie", "EARoot/EA2/EA2/EA1/EA1029.htm", "7.png", "E76139", "0", "", "UseCase0","{1D4A96DC-66F7-407a-A5D3-1C19B93C9F08}");
-tocTab[tocTab.length] = new Array("0.2.2.1:6", "", "Registreren applicatie", "EARoot/EA2/EA2/EA1/EA1030.htm", "7.png", "E76138", "0", "", "UseCase0","{D28F5BFB-8067-420d-80B8-4885CA619D96}");
-tocTab[tocTab.length] = new Array("0.2.2.1:7", "", "Registreren zorgaanbieder domen", "EARoot/EA2/EA2/EA1/EA1031.htm", "7.png", "E76132", "0", "", "UseCase0","{5E296165-6987-4f40-89B8-510326120DE2}");
-tocTab[tocTab.length] = new Array("0.2.2.1.1", "", "Elementen", "EARoot/EA2/EA2/EA1/EA1/EA1032.htm", "4.png", "", "", "{08B18962-F09D-4b75-8D8E-59F483EFC3F9}", "Package");

@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.2.6.2:1", "", "SUC-KTB-02a<br />Rapporteren stelselniveau", "EARoot/EA2/EA2/EA6/EA2/EA1110.htm", "7.png", "E63013", "0", "", "UseCase0","{C867F360-2103-46ab-B4B7-4AD69ECFA710}");
-tocTab[tocTab.length] = new Array("0.2.2.6.2:2", "", "SUC-KTB-02b<br />Rapporteren GGZ domein niveau", "EARoot/EA2/EA2/EA6/EA2/EA1111.htm", "7.png", "E63014", "0", "", "UseCase0","{3CC8C9FC-BD28-4435-A5E2-00B2A8739D28}");
-tocTab[tocTab.length] = new Array("0.2.2.6.2:3", "", "SUC-KTB-03<br />Signaleren beheerproblemen", "EARoot/EA2/EA2/EA6/EA2/EA1112.htm", "7.png", "E63015", "0", "", "UseCase0","{36282384-8B17-4b6a-B3F5-35EAEDB307B8}");
-tocTab[tocTab.length] = new Array("0.2.2.6.2:4", "", "SUC-KTB-04a<br />Auditing & Logging stelselniveau", "EARoot/EA2/EA2/EA6/EA2/EA1113.htm", "7.png", "E63016", "0", "", "UseCase0","{83FD8515-F371-4e47-9535-DF2D1E8E95B4}");
-tocTab[tocTab.length] = new Array("0.2.2.6.2:5", "", "SUC-KTB-04b<br />Auditing & Logging domein niveau", "EARoot/EA2/EA2/EA6/EA2/EA1114.htm", "7.png", "E63017", "0", "", "UseCase0","{F03313FD-1DA2-4ec0-94CE-D9FC9D7BBB70}");

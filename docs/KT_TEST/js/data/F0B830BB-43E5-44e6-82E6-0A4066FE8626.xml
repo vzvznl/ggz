@@ -1,7 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.3.1.2.7:1", "", "Derde", "EARoot/EA2/EA3/EA1/EA2/EA7/EA1299.htm", "6.png", "E62775", "0", "", "Actor0","{9EAFB819-ECF6-4f5e-9772-7CEF57AF427E}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.7:2", "", "loop", "EARoot/EA2/EA3/EA1/EA2/EA7/EA1300.htm", "101.png", "E57381", "0", "", "InteractionFragment0","{A3DD5997-426B-4445-81CA-88D9BDBAE059}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.7:3", "", "Service", "EARoot/EA2/EA3/EA1/EA2/EA7/EA1301.htm", "207.png", "E66534", "0", "", "Interaction0","{79956427-0CF3-4bc2-8306-1AF4A71BE620}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.7:4", "", "Behandelaar", "EARoot/EA2/EA3/EA1/EA2/EA7/EA1302.htm", "6.png", "E53449", "0", "", "Actor0","{AA560BCE-6ED3-4660-A974-E2BCFA106A96}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.7:5", "", "Ondersteuner", "EARoot/EA2/EA3/EA1/EA2/EA7/EA1303.htm", "6.png", "E53448", "0", "", "Actor0","{FE26BAE5-4911-4154-8659-B2074C27D060}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.7:6", "", "Patient", "EARoot/EA2/EA3/EA1/EA2/EA7/EA1304.htm", "6.png", "E53450", "0", "", "Actor0","{7573538E-15E1-4590-AFAF-733092924A2B}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.7:7", "", "User", "EARoot/EA2/EA3/EA1/EA2/EA7/EA1305.htm", "6.png", "E53447", "0", "", "Actor0","{58B5A0E4-5A6E-4200-9EE8-229A0CB6D82A}");

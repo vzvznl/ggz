@@ -1,3 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.1.2.5.2.2:1", "", "«Pool» Systeembeheerder", "EARoot/EA2/EA1/EA2/EA5/EA2/EA2/EA649.htm", "116.png", "E75336", "0", "", "ActivityPartition0","{34B29997-AF8F-487d-8783-3C514C8ECA92}");
-tocTab[tocTab.length] = new Array("0.2.1.2.5.2.2:2", "", "«Activity» Registreren beheerdersrollen", "EARoot/EA2/EA1/EA2/EA5/EA2/EA2/EA650.htm", "4C9380A5-0_Activity.png", "E75338", "E75336", "", "Activity0","{9CDFFCB7-027D-486d-B753-5DEB55EA93AD}");
-tocTab[tocTab.length] = new Array("0.2.1.2.5.2.2:3", "", "«EndEvent» Beheerdersrol geregistreerd", "EARoot/EA2/EA1/EA2/EA5/EA2/EA2/EA651.htm", "4C9380A5-0_EndEvent.png", "E75339", "E75336", "", "Event0","{78683DA1-4174-4604-8661-9DC959B345A9}");

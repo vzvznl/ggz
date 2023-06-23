@@ -1,5 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.3.1.2.8:1", "", "rest-hookURL", "EARoot/EA2/EA3/EA1/EA2/EA8/EA1307.htm", "100.png", "E65566", "0", "", "MessageEndpoint0","{62F691A5-9D0D-4398-B653-C63DFC419118}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.8:2", "", "authEndpoint", "EARoot/EA2/EA3/EA1/EA2/EA8/EA1308.htm", "100.png", "E53461", "0", "", "MessageEndpoint0","{611CD97C-866C-42c2-89E9-798240AF5B65}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.8:3", "", "redirect_uri", "EARoot/EA2/EA3/EA1/EA2/EA8/EA1309.htm", "100.png", "E53459", "0", "", "MessageEndpoint0","{066E80C4-C80F-43b0-A30A-D2D6468AB6D2}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.8:4", "", "redirect_uri", "EARoot/EA2/EA3/EA1/EA2/EA8/EA1310.htm", "100.png", "E53460", "0", "", "MessageEndpoint0","{D437AF4E-7032-4033-B4D5-19F40DBE5BBD}");
-tocTab[tocTab.length] = new Array("0.2.3.1.2.8:5", "", "tokenEndpoint", "EARoot/EA2/EA3/EA1/EA2/EA8/EA1311.htm", "100.png", "E53462", "0", "", "MessageEndpoint0","{577FFFF3-DD3A-47ef-8CD7-BD91DBB5CD7D}");

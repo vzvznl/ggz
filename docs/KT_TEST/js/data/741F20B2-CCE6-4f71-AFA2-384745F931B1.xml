@@ -1,4 +1,0 @@
-tocTab[tocTab.length] = new Array("0.2.1.2.6.1", "1", "Realiseren applicatie-instantie", "EARoot/EA2/EA1/EA2/EA6/EA1/EA714.htm", "4.png", "", "", "{7074A89A-5865-4833-8B7D-B2F7B5702F17}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.2.6.2", "1", "Beperken rechten applicatie instantie", "EARoot/EA2/EA1/EA2/EA6/EA2/EA743.htm", "4.png", "", "", "{5CD651AB-8B63-4ff7-8A94-A6C20AEFEFB4}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.2.6.3", "1", "Activeren logging", "EARoot/EA2/EA1/EA2/EA6/EA3/EA761.htm", "4.png", "", "", "{2963A6A7-80E5-4e6e-98AF-6A59753B048E}", "Package");
-tocTab[tocTab.length] = new Array("0.2.1.2.6.4", "1", "Registreren abonnementen", "EARoot/EA2/EA1/EA2/EA6/EA4/EA770.htm", "4.png", "", "", "{A162D7FA-6DD4-407d-B343-A0DE812899AE}", "Package");
