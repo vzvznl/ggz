@@ -92,9 +92,8 @@ xmp {
 }
 
 /* Changing Navbar color can be done by uncommenting and adapting what follows */
-/*
 .navbar {
-    background-color: #017a54;
+    background-color: #103A5D;
 }
 
 .navbar .navbar-nav>li>a:hover {
@@ -104,7 +103,7 @@ xmp {
 .navbar .navbar-nav>li>a:focus {
     background-color: rgb(255 255 255 / 0%);
 }
-*/
+
 
 /* Image Zoom Slider */
 .root-panel-heading {
