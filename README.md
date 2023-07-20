@@ -1,5 +1,5 @@
 # ggz
-#### GGZ gerelateerde architectuur voor sectorteam
+#### Digitale architectuur voor sectorteam
 Binnen deze repository host ik een aantal architectuurmodellen die mij helpen bij de ondersteuning van het sectorteam GGZ en daarmee de sector zelf.
 Het sectorteam GGZ is gericht op de ondersteuning van de sector GGZ waar het gaat om vragen over interoperabiliteit.
 
