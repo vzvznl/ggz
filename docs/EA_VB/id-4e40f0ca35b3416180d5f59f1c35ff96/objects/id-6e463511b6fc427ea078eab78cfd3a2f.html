@@ -1,0 +1,87 @@
+<!DOCTYPE html>
+<html class="frame" lang="en">
+<head>
+	<meta http-equiv="Content-Type" content="text/html;charset=utf-8">
+	<title>!! BELANGRIJK !!</title>
+
+	<!-- JQUERY -->
+	<script type="text/javascript" src="../../lib/jquery/jquery.min.js"></script>
+	<!-- BOOTSTRAP -->
+	<link type="text/css" rel="stylesheet" href="../../lib/bootstrap/css/bootstrap.min.yeti.css">
+	<script type="text/javascript" src="../../lib/bootstrap/js/bootstrap-3.3.2.min.js"></script>
+	<!-- REPORT SPECIFIC -->
+	<link type="text/css" rel="stylesheet" href="../../css/model.css">
+	<link type="text/css" rel="stylesheet" href="../../css/i18n.css">
+	<script type="text/javascript" src="../../js/frame.js"></script>
+	<script type="text/javascript" src="../../js/imageMapResizer.min.js"></script>
+</head>
+
+<body>
+	<div class="panel panel-default root-panel">
+
+		<div class="panel-heading root-panel-heading">
+            <!-- Name -->
+               <b>!! BELANGRIJK !!</b>
+
+            <!-- If a View with Viewpoint -->
+			   (<span class="i18n-elementtype-DiagramModelGroup"></span>)
+			   <a class="glyphicon glyphicon-info-sign" id="hint-DiagramModelGroup" target="hint"></a>
+		</div>
+
+		<div class="panel-body root-panel-body">
+		    <!-- If this is a digram model (has children and no bounds) show the image -->
+
+			<div role="tabpanel">
+				<!-- Nav tabs -->
+				<ul class="nav nav-tabs" role="tablist">
+                    <!-- Purpose / Documentation / Content -->
+					   <li role="presentation" class="active"><a href="#documentation" aria-controls="documentation" role="tab" data-toggle="tab" class="i18n-documentation"></a></li>
+
+                    <!-- Properties -->
+                    <li role="presentation"><a href="#properties" aria-controls="properties" role="tab" data-toggle="tab" class="i18n-properties"></a></li>
+
+				</ul>
+
+				<!-- Tab panes -->
+				<div class="tab-content">
+					<div role="tabpanel" class="tab-pane active" id="documentation">
+						<div class="convertlinks documentation" style="white-space:pre-wrap">Binnen deze kennisbank wil ik de architectuur van een groot en complex systeem beschrijven in sub-systemen waardoor het systeem als geheel minder complex overkomt. Het betreffende systeem is het systeem van gezondheidszorg, gekaderd tot interoperabiliteit, en gezien vanuit de context van &#233;&#233;n enkele GGZ zorgaanbieder.
+
+1) Dit model is een voorbeeld weergave van hoe je een enterprise architectuur van een zorginstelling zou kunnen vastleggen en weergeven. - Het is niet bedoeld als een referentiearchitectuur.
+
+2) Deze architectuur is een persoonlijke uitwerking van een voorbeeldarchitectuur zonder daarbij een advies te willen geven over hoe een architectuur er binnen een instelling er uit zou moeten zien. Mijn drijfveer voor deze uitwerking komt voort uit het plezier dat ik er aan beleef, mijn grote interesse in het architectuur vakgebied en de Nederlandse gezondheidszorg. Deze uitwerking maak ik grotendeels in eigen tijd en een klein beetje tijdens mijn werkuren voor de Sector GGZ bij mijn werkgever VZVZ.
+
+3) Deze archtiectuur wordt (nog) niet gereviewed door anderen en kan dus fouten bevattten. Via Github kunnen echter wel vragen gesteld worden en feedback geleverd (zie contact tabs)
+
+Referentiemateriaal
+Bij het samenstellen van deze architectuur maak ik zo veel mogelijk hergebruik van open beschikbare referentie architecturen en standaarden en zal daarbij de bronnen vermelden. Waar dat van toepassing is laat ik mij inspireren door de Nationale Visie en Strategie op het gezonheidinformatieselsel (NVS).
+
+Model en Views
+Bij het beschrijven van delen van de architectuur zijn twee veschillende soorten views te onderscheiden.
+- De beschrijving van een deel van het systeem in rust (structuur)
+- De beschrijving van een deel van het systeem in beweging (structuur + gedrag)
+
+De architectuur van het systeem is terug te vinden in "Model content", specifieke beschrijvingen van structuur en gedrag zijn terug te vinden onder "Views"
+
+  
+</div>
+					</div>
+					<div role="tabpanel" class="tab-pane" id="properties">
+						<table class="table table-striped table-hover table-condensed">
+							<thead>
+								<tr>
+									<th class="i18n-key"></th>
+									<th class="i18n-value"></th>
+								</tr>
+							</thead>
+							<tbody>
+							</tbody>
+						</table>
+					</div>
+			  </div>
+			</div>
+		</div>
+	</div>
+	<script type="text/javascript">imageMapResize();</script>
+</body>
+</html>
