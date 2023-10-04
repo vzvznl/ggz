@@ -79,7 +79,7 @@ p.centered {
 }
 
 img.diagram {
-	width: 1660px;
+	max-width: 100%;
 }
 
 xmp {
